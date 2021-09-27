@@ -34,7 +34,7 @@ body::before {
   content: "";
   inline-size: var(--size);
   block-size: var(--size);
-  background-image: url("https://assets.codepen.io/225363/foot-pattern.svg");
+  background-image: url("https://res.fashionsnap.com/image/upload/c_limit,f_auto,q_auto,w_2000/asset/article/images/2020/06/jpwallpaper20200604-4.jpg");
   background-size: var(--bg-size);
   background-repeat: repeat;
   transform: rotate(45deg);
