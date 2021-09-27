@@ -34,7 +34,7 @@ body::before {
   content: "";
   inline-size: var(--size);
   block-size: var(--size);
-  background-image: url("https://assets.codepen.io/225363/foot-pattern.svg");
+  background-image: url("https://assets.codepen.io/225363/foot-pattern.svg"); /* u can impoort another pic */
   background-size: var(--bg-size);
   background-repeat: repeat;
   transform: rotate(45deg);
